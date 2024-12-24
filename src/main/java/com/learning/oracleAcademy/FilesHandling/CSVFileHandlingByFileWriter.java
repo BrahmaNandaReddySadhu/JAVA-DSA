@@ -3,7 +3,7 @@ package main.java.com.learning.oracleAcademy.FilesHandling;
 import java.io.*;
 import java.util.Scanner;
 
-public class CSVFileHandling {
+public class CSVFileHandlingByFileWriter {
     public static void main(String[] args) throws IOException {
 
         String csvFileName = "D:\\BrahmanandaReddySadhu\\projects\\JAVA-LEARNING\\DSA\\resources\\example.csv";
