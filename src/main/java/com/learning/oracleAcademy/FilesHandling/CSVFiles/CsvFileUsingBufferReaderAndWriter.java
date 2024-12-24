@@ -1,4 +1,4 @@
-package main.java.com.learning.oracleAcademy.FilesHandling;
+package main.java.com.learning.oracleAcademy.FilesHandling.CSVFiles;
 
 import java.io.*;
 
